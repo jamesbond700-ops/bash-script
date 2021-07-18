@@ -1,1 +1,4 @@
 # bash-script
+
+
+fuk this 
